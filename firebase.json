@@ -1,0 +1,31 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "smart-expense-splitter-792b2",
+          "appId": "1:1006237068960:android:a0832132479f0f3c6fa3c5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "smart-expense-splitter-792b2",
+          "configurations": {
+            "android": "1:1006237068960:android:a0832132479f0f3c6fa3c5",
+            "ios": "1:1006237068960:ios:0bf9a1642d9c3e2e6fa3c5",
+            "macos": "1:1006237068960:ios:0bf9a1642d9c3e2e6fa3c5",
+            "web": "1:1006237068960:web:014a055b9e4967c26fa3c5",
+            "windows": "1:1006237068960:web:bafd70ce15282d706fa3c5"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "asia-south1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
