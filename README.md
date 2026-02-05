@@ -1,17 +1,33 @@
-# flutter_application_2
+# Smart Expense Splitter (Flutter + Firebase)
 
-A new Flutter project.
+Smart Expense Splitter is a Flutter web/mobile application that helps users manage groups and split expenses easily using Firebase services.
 
-## Getting Started
+## 🚀 Features
+- User signup & login with Firebase Authentication
+- Email verification
+- Role-based access (Admin / Member)
+- Group creation & management
+- Expense tracking and splitting
+- Firestore database integration
+- PDF export and sharing
+- Responsive Flutter UI
+- Web and Android support
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Hosting (optional)
+- PDF generation
+- Share Plus plugin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Expense-smart" 
+## 📂 Project Setup
+
+### 1. Clone or open project
+```bash
+git clone <repo-url>
+cd flutter_application_2
